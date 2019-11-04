@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget id="tw.edu.nfu.Yu-WeiAnimal" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<!-- versionCode is optional and Android only -->
+  <name>Animal</name>
+  <description>
+      
+  </description>
+  <author  email="tabod111@gmail.com">
+      Yu-Wei Lin
+  </author>
+  <content src="index.html" />
+  <platform name="android">
+    <icon src="res/map.png" />
+  </platform>
+</widget>
